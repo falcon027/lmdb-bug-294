@@ -1,0 +1,14 @@
+{
+  "name": "bug",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "Bug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lmdb": "3.0.12"
+  },
+  "private": true
+}
